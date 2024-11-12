@@ -1,0 +1,4 @@
+﻿  seti-lab13.cpp
+C:\Users\wotbl\source\repos\seti-lab13\seti-lab13\seti-lab13.cpp(22,10): warning C4101: 'dwBytesWritten': unreferenced local variable
+C:\Users\wotbl\source\repos\seti-lab13\seti-lab13\seti-lab13.cpp(25,9): warning C4101: 'nMessageLength': unreferenced local variable
+  seti-lab13.vcxproj -> C:\Users\wotbl\source\repos\seti-lab13\x64\Debug\seti-lab13.exe
